@@ -1,3 +1,5 @@
+// Author: Jacob Andrew McClure // Origin: 4/19/2018
+
 package whatsupworld;
 
 import java.util.Scanner;
