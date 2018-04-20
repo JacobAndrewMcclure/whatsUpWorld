@@ -1,5 +1,4 @@
 // Author: Jacob Andrew McClure // Origin: 4/19/2018
-
 package whatsupworld;
 
 import java.util.Scanner;
@@ -16,7 +15,7 @@ public class WhatsUpWorld
         System.out.println("Enter your name: ");
         userName = sc.nextLine();
         
-        System.out.println("Hello " + userName + " welcome to Java!");
+        System.out.println("Whats up " + userName + "! Welcome to Java!");
     }
     
 }
